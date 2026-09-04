@@ -8,7 +8,7 @@ The code was written in SQL Server Management Studio 2022. ERD was designed on a
 
 DEVOPS
 -------
-Set up GitHub actions 
+Set up GitHub actions and ensure unlisted video links are working
 
 SUCCESSFUL BUILD SCREENSHOTS
 ============================
