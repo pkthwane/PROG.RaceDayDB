@@ -7,7 +7,11 @@ PART 2 INSTRUCTIONS
   4. Download the RaceDayDb.Tests.slnx
   5. Run RaceDayDB1.slnx on Visual Studio
   6. Run RaceDayDb.tests.slnx on Visual Studio
-     
+
+SUCCESSFULL WORKFLOW
+--------------------
+https://github.com/pkthwane/PROG.RaceDayDB/blob/master/Screenshot 2026-10-16 105614.png
+   
 QUICK CODE DESCRIPTION
 ----------------------
 The Race Day Data Base system otherwise known as (RaceDayDB) allows Organizers to collect important information regarding the different race events being held as well as the Runners and Sponsor's personal information and contribution towards the event. It also allows the Organizer to create different race events.
