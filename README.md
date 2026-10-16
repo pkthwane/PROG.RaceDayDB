@@ -1,3 +1,7 @@
+YOUTUBE VIDOE
+-------------
+https://youtu.be/wpA1TVQocR0
+
 PART 2 INSTRUCTIONS
 -------------------
 * IMPORTANT * To be able to run the RaceDayDB1.slnx and RaceDayDb.Tests.slnx files you to first the newly updated SQL code for the RaceDayDB system, which is RaceDayDB.sql
